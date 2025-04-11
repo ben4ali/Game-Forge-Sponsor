@@ -7,7 +7,7 @@ export const Footer = () => {
             <Contact />
             <div className="footerContent">
                 <h2>LOGO</h2>
-                <a href="#">Kaos Games LLC. All rights reserved.</a>
+                <a href="#">Game Forge. All rights reserved.</a>
                 <div className="footerLinks">
                     <a href="#">PORTFOLIO</a>
                     <a href="#">ABOUT</a>

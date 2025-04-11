@@ -6,10 +6,10 @@ export const Mission = () => {
                 <h3>PARTNER<br></br> PLATFORMS</h3>
                 <div className="platforms">
                     <div className="platform">
-                        <h4>ROBLOX</h4>
+                        <h4>HELLO GAMES</h4>
                     </div>
                     <div className="platform">
-                        <h4>FORTNITE</h4>
+                        <h4>ORIGIN</h4>
                     </div>
                     <div className="platform">
                         <h4>STEAM</h4>
