@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Game Forge - Fictive Game Sponsor Company
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Game Forge is a fictive game sponsor company front page created to explore and learn React. This project showcases a modern and responsive design, highlighting the company's mission, portfolio, team, and global presence.
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+### Hero Section
 
-### `npm start`
+![Hero Preview](previews/hero-preview.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Portfolio Section
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Portfolio Preview](previews/portfolio-preview.png)
 
-### `npm test`
+### Team Section
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Team Preview](previews/team-preview.png)
 
-### `npm run build`
+### Contact Section
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Contact Preview](previews/contact-preview.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Hero Section**: A bold introduction to Game Forge with a call to action.
+- **Mission Section**: Highlights the company's goals and achievements.
+- **Portfolio Section**: Displays a collection of supported games.
+- **Brands Section**: Showcases collaborations with industry-leading brands.
+- **Team Section**: Introduces the team behind Game Forge.
+- **Contact Section**: Allows users to send messages and connect with the company.
 
-### `npm run eject`
+## Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React**: For building the user interface.
+- **CSS**: For styling and layout.
+- **Bootstrap Icons**: For modern and consistent icons.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to Run
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   git clone https://github.com/ben4ali/Game-Forge-Sponsor.git
+   cd game-forge
+    ```
 
-## Learn More
+3. Install dependencies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    ```bash
+    npm install
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Start the development server:
 
-### Code Splitting
+    ```bash
+    npm start
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5. Open your browser and navigate to `http://localhost:3000` to view the project.
