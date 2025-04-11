@@ -4,21 +4,12 @@ Game Forge is a fictive game sponsor company front page created to explore and l
 
 ## Preview
 
-### Hero Section
 
-![Hero Preview](previews/hero-preview.png)
-
-### Portfolio Section
-
-![Portfolio Preview](previews/portfolio-preview.png)
-
-### Team Section
-
-![Team Preview](previews/team-preview.png)
-
-### Contact Section
-
-![Contact Preview](previews/contact-preview.png)
+![Preview](previews/preview1.png)
+![Preview](previews/preview2.png)
+![Preview](previews/preview3.png)
+![Preview](previews/preview4.png)
+![Preview](previews/preview5.png)
 
 ## Features
 
